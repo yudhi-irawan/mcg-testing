@@ -1,0 +1,13 @@
+﻿EasyUI official
+https://www.jeasyui.com/
+
+Download EasyUI for jQuery:
+https://www.jeasyui.com/download/index.php
+
+
+you can download :
+Freeware Edition or
+Commercial Edition
+
+download and extract at directory:
+assets/easyui

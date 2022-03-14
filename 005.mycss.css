@@ -1,0 +1,37 @@
+        #fm{
+            margin:0;
+            padding:10px 30px;
+        }
+        .ftitle{
+            font-size:14px;
+            font-weight:bold;
+            padding:5px 0;
+            margin-bottom:10px;
+            border-bottom:1px solid #ccc;
+        }
+        .fitem{
+            margin-bottom:5px;
+        }
+        .fitem label{
+            display:inline-block;
+            width:150px;
+        }
+        .fitem input{
+            width:300px;
+        }
+        .datagrid-header-rownumber{
+            width:60px;
+        }
+        .datagrid-cell-rownumber{
+            width:60px;
+        }
+		body
+		{
+			margin              : 0px;
+			padding             : 0px;
+		}
+		body,html{height:97.5%;}
+		.parent{
+			min-height:97.5%;
+			margin:0 auto;
+		}

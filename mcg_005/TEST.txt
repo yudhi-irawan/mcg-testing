@@ -1,0 +1,49 @@
+2021-11-17
+
+
+http://localhost/mcg_testing/mcg_005/sex.php
+http://localhost/mcg_testing/mcg_005/edu.php
+http://localhost/mcg_testing/mcg_005/emp.php
+http://localhost/mcg_testing/mcg_005/sex_utility.php?method=GetData_one
+http://localhost/mcg_testing/mcg_005/sex_utility.php?method=GetData_one&progcaller=emp
+
+
+https://mcg-testing.000webhostapp.com/mcg_005/sex.php
+https://mcg-testing.000webhostapp.com/mcg_005/edu.php
+https://mcg-testing.000webhostapp.com/mcg_005/emp.php
+
+http://mcg-testing.000webhostapp.com/mcg_005/sex_utility.php?method=GetData_one
+http://mcg-testing.000webhostapp.com/mcg_005/sex_utility.php?method=GetData_one&progcaller=emp
+
+===========================================================================
+
+file/directory stucture:
+========================
+
+<mcg_testing>
+---<assets>
+------<img>
+------<my_lib>
+---------<icons>
+------------icons file ***
+---------<images>
+------------images file ***
+---------my_easyui.css
+---------my_icon.css
+---<inc>
+------conn.php
+------inc_method.php
+---<manual>
+------manual_script_sql.php
+---<mcg_005>
+------<manual>
+------file from generator put here!
+------file from generator put here!
+------file from generator put here!
+---005.mycss.css
+---005.mcg.root.js
+---easyui_cdn.js
+---easyui_my_lib_local.js
+											
+
+===========================================================================

@@ -1,0 +1,53 @@
+.icon-pdf{
+	background:url('icons/pdf.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.gif') no-repeat center center;
+}
+.icon-html{
+	background:url('icons/Letter_H_Icon_16.png') no-repeat center center;
+}
+
+
+
+.icon-add{
+	background:url('icons/add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/edit.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/remove.png') no-repeat center center;
+}
+
+.icon-clone{
+	background:url('icons/clone.png') no-repeat center center;
+}
+.icon-xls{
+	background:url('icons/xls.png') no-repeat center center;
+}
+
+.icon-menu{
+	background:url('icons/menu.png') no-repeat center center;
+}
+.icon-puzzle{
+	background:url('icons/puzzle.png') no-repeat center center;
+}
+
+
+.icon-mini-edit{
+	background:url('icons/edit.png') no-repeat center center;
+}
+
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/ok.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
