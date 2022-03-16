@@ -4,16 +4,12 @@
 http://localhost/mcg_testing/mcg_005/sex.php
 http://localhost/mcg_testing/mcg_005/edu.php
 http://localhost/mcg_testing/mcg_005/emp.php
-http://localhost/mcg_testing/mcg_005/sex_utility.php?method=GetData_one
-http://localhost/mcg_testing/mcg_005/sex_utility.php?method=GetData_one&progcaller=emp
 
 
 https://mcg-testing.000webhostapp.com/mcg_005/sex.php
 https://mcg-testing.000webhostapp.com/mcg_005/edu.php
 https://mcg-testing.000webhostapp.com/mcg_005/emp.php
 
-http://mcg-testing.000webhostapp.com/mcg_005/sex_utility.php?method=GetData_one
-http://mcg-testing.000webhostapp.com/mcg_005/sex_utility.php?method=GetData_one&progcaller=emp
 
 ===========================================================================
 
